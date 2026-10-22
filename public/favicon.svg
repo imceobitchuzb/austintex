@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="16" fill="#F5F0E8"/>
+  <!-- Delicate editorial emblem -->
+  <circle cx="32" cy="32" r="27" fill="none" stroke="#D9C7AE" stroke-width="1.2"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="#B77D70" stroke-width="0.75" stroke-dasharray="2 2"/>
+  <!-- Bespoke cake silhouette with floral touch -->
+  <path d="M22 43h20v2a1 1 0 0 1-1 1H23a1 1 0 0 1-1-1v-2z" fill="#34352F"/>
+  <path d="M24 35h16v7H24v-7z" fill="#858B76" opacity="0.9"/>
+  <path d="M27 28h10v6H27v-6z" fill="#B77D70"/>
+  <!-- Small floral bloom / heart topper -->
+  <path d="M32 23c-1.5-2.5-4-1-4 1 0 2 4 4 4 4s4-2 4-4c0-2-2.5-3.5-4-1z" fill="#34352F"/>
+</svg>
